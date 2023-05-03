@@ -16,3 +16,8 @@ public:
 
 int A::s_total = 3;
 
+int main()
+{
+
+    return 0;
+}
